@@ -125,7 +125,12 @@
           <mxGeometry x="300" y="490" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-45" target="uLV2ARdztsiSc3-LaBoS-46">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="555" />
+              <mxPoint x="420" y="455" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-45" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="540" width="70" height="30" as="geometry" />
