@@ -162,8 +162,8 @@
         <mxCell id="uLV2ARdztsiSc3-LaBoS-65" value="C3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uLV2ARdztsiSc3-LaBoS-69" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="610" y="240" width="130" height="150" as="geometry" />
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-70" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
