@@ -85,14 +85,11 @@
         <mxCell id="uLV2ARdztsiSc3-LaBoS-30" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uLV2ARdztsiSc3-LaBoS-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-32" target="uLV2ARdztsiSc3-LaBoS-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-32" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uLV2ARdztsiSc3-LaBoS-34" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="385" width="120" height="60" as="geometry" />
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-36" value="Concate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
