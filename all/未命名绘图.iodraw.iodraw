@@ -79,10 +79,13 @@
         <mxCell id="uLV2ARdztsiSc3-LaBoS-28" value="SPPF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-30" target="uLV2ARdztsiSc3-LaBoS-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-30" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uLV2ARdztsiSc3-LaBoS-32" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-32" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
