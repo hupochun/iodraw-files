@@ -97,13 +97,22 @@
         <mxCell id="uLV2ARdztsiSc3-LaBoS-32" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-36" target="uLV2ARdztsiSc3-LaBoS-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-36" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-39" target="uLV2ARdztsiSc3-LaBoS-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-39" value="C3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="390" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-42" target="uLV2ARdztsiSc3-LaBoS-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-42" target="uLV2ARdztsiSc3-LaBoS-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-42" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -127,8 +136,14 @@
         <mxCell id="uLV2ARdztsiSc3-LaBoS-46" value="C3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="540" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-55" target="uLV2ARdztsiSc3-LaBoS-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-55" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-56" target="uLV2ARdztsiSc3-LaBoS-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-56" value="SPDConv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="440" width="70" height="30" as="geometry" />
