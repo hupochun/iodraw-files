@@ -73,11 +73,14 @@
         <mxCell id="uLV2ARdztsiSc3-LaBoS-26" value="EMA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="290" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLV2ARdztsiSc3-LaBoS-28" target="uLV2ARdztsiSc3-LaBoS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-28" value="SPPF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uLV2ARdztsiSc3-LaBoS-30" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="70" height="30" as="geometry" />
+          <mxGeometry x="300" y="240" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
