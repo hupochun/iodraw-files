@@ -124,8 +124,14 @@
         <mxCell id="uLV2ARdztsiSc3-LaBoS-46" value="C3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="590" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uLV2ARdztsiSc3-LaBoS-55" value="C3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="600" width="70" height="30" as="geometry" />
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-55" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-56" value="SPDConv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="690" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uLV2ARdztsiSc3-LaBoS-57" value="C3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
