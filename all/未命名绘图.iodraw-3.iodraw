@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XtlBmAipAmMCiZK9wH6f-10" value="R1是否是0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="368" width="143.5" height="50" as="geometry" />
+          <mxGeometry x="342" y="368" width="143.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XtlBmAipAmMCiZK9wH6f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XtlBmAipAmMCiZK9wH6f-10" target="XtlBmAipAmMCiZK9wH6f-2">
           <mxGeometry relative="1" as="geometry">
@@ -91,6 +91,9 @@
         </mxCell>
         <mxCell id="XtlBmAipAmMCiZK9wH6f-29" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="838" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XtlBmAipAmMCiZK9wH6f-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="408" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
