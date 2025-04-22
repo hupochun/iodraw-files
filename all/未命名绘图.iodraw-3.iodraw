@@ -51,8 +51,14 @@
         <mxCell id="XtlBmAipAmMCiZK9wH6f-15" value="设置R1为10H，R0为40H，DPTR为1050H" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XtlBmAipAmMCiZK9wH6f-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XtlBmAipAmMCiZK9wH6f-17" target="XtlBmAipAmMCiZK9wH6f-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XtlBmAipAmMCiZK9wH6f-17" value="将R0指向的RAM单元数据赋值给A" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="524.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XtlBmAipAmMCiZK9wH6f-19" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
