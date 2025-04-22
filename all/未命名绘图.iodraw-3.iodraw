@@ -63,7 +63,7 @@
         <mxCell id="XtlBmAipAmMCiZK9wH6f-19" value="将A的值存入DPTR指向外部RAM单元" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XtlBmAipAmMCiZK9wH6f-21" value="将R0自增" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XtlBmAipAmMCiZK9wH6f-21" value="将R0自增，指向下一个内部RAM单元，将DPTR自增，指向下一个外部RAM单元" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
