@@ -35,11 +35,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="390" />
-              <mxPoint x="530" y="270" />
-              <mxPoint x="494" y="270" />
-              <mxPoint x="494" y="144" />
+              <mxPoint x="530" y="144" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XtlBmAipAmMCiZK9wH6f-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="338" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
