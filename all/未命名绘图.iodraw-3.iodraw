@@ -77,6 +77,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="XtlBmAipAmMCiZK9wH6f-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XtlBmAipAmMCiZK9wH6f-23" target="XtlBmAipAmMCiZK9wH6f-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XtlBmAipAmMCiZK9wH6f-23" value="R1是不是0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="351" y="790" width="126" height="50" as="geometry" />
         </mxCell>
@@ -84,7 +87,7 @@
           <mxGeometry x="480" y="768" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XtlBmAipAmMCiZK9wH6f-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="600" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="870" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
