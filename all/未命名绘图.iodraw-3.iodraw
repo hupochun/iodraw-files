@@ -45,8 +45,8 @@
         <mxCell id="XtlBmAipAmMCiZK9wH6f-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="338" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XtlBmAipAmMCiZK9wH6f-15" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="XtlBmAipAmMCiZK9wH6f-15" value="设置R1为10H，R0为40H，DPTR为1050H" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
