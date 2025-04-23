@@ -22,8 +22,20 @@
         <mxCell id="_mQEKzAtYvsbu9SJUyeo-4" value="将A的值赋值给P1" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_mQEKzAtYvsbu9SJUyeo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mQEKzAtYvsbu9SJUyeo-6" target="_mQEKzAtYvsbu9SJUyeo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_mQEKzAtYvsbu9SJUyeo-6" value="调用延时子程序DELAY" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mQEKzAtYvsbu9SJUyeo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mQEKzAtYvsbu9SJUyeo-8" target="_mQEKzAtYvsbu9SJUyeo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mQEKzAtYvsbu9SJUyeo-8" value="A左移" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mQEKzAtYvsbu9SJUyeo-10" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="374" y="480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
