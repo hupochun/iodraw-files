@@ -13,11 +13,17 @@
         <mxCell id="KTw2XKo7llYoXjfx-hrb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTw2XKo7llYoXjfx-hrb-2" target="KTw2XKo7llYoXjfx-hrb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTw2XKo7llYoXjfx-hrb-2" value="将R0、R1赋值为00H" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KTw2XKo7llYoXjfx-hrb-2" value="将R0赋值为00H" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTw2XKo7llYoXjfx-hrb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTw2XKo7llYoXjfx-hrb-6" target="KTw2XKo7llYoXjfx-hrb-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KTw2XKo7llYoXjfx-hrb-6" value="R1赋值为00H" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTw2XKo7llYoXjfx-hrb-8" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
