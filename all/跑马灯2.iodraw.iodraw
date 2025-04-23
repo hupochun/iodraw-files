@@ -36,11 +36,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="KTw2XKo7llYoXjfx-hrb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTw2XKo7llYoXjfx-hrb-10" target="KTw2XKo7llYoXjfx-hrb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KTw2XKo7llYoXjfx-hrb-10" value="R1是否为0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="351" y="330" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTw2XKo7llYoXjfx-hrb-13" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="318" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTw2XKo7llYoXjfx-hrb-14" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
