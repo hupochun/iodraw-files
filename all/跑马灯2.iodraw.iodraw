@@ -10,6 +10,11 @@
         <mxCell id="KTw2XKo7llYoXjfx-hrb-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="10" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KTw2XKo7llYoXjfx-hrb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTw2XKo7llYoXjfx-hrb-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KTw2XKo7llYoXjfx-hrb-2" value="将R0赋值为00H" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
         </mxCell>
