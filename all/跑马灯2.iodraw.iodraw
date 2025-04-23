@@ -15,7 +15,7 @@
             <mxPoint x="414" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KTw2XKo7llYoXjfx-hrb-2" value="将R0赋值为00H" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KTw2XKo7llYoXjfx-hrb-2" value="将R0、R1赋值为00H" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
