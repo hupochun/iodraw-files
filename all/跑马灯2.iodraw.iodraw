@@ -59,6 +59,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="KTw2XKo7llYoXjfx-hrb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KTw2XKo7llYoXjfx-hrb-16" target="KTw2XKo7llYoXjfx-hrb-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KTw2XKo7llYoXjfx-hrb-16" value="R0是否为0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="356" y="500" width="116" height="50" as="geometry" />
         </mxCell>
