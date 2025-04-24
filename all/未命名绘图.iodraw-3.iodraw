@@ -30,8 +30,8 @@
         <mxCell id="rJNdVAHJGodJo3yQCE66-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJNdVAHJGodJo3yQCE66-6" target="rJNdVAHJGodJo3yQCE66-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="370" />
-              <mxPoint x="270" y="780" />
+              <mxPoint x="340" y="370" />
+              <mxPoint x="340" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
