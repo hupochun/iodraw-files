@@ -19,7 +19,7 @@
         <mxCell id="rJNdVAHJGodJo3yQCE66-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJNdVAHJGodJo3yQCE66-4" target="rJNdVAHJGodJo3yQCE66-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rJNdVAHJGodJo3yQCE66-4" value="打开全局中断使能，开启外中断0和1，设置为下降沿触发，外中断0优先级较高" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rJNdVAHJGodJo3yQCE66-4" value="EA&amp;lt;-1&lt;div&gt;EX0&amp;lt;-1&lt;/div&gt;&lt;div&gt;EX1&amp;lt;-1&lt;/div&gt;&lt;div&gt;IT0&amp;lt;-1&lt;/div&gt;&lt;div&gt;IT1&amp;lt;-&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJNdVAHJGodJo3yQCE66-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJNdVAHJGodJo3yQCE66-6" target="rJNdVAHJGodJo3yQCE66-9">
