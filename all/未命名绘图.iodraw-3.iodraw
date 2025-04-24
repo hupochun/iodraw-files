@@ -22,13 +22,20 @@
         <mxCell id="rJNdVAHJGodJo3yQCE66-4" value="打开全局中断使能，开启外中断0和1，设置为下降沿触发，外中断0优先级较高" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rJNdVAHJGodJo3yQCE66-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJNdVAHJGodJo3yQCE66-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="360" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="rJNdVAHJGodJo3yQCE66-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJNdVAHJGodJo3yQCE66-6" target="rJNdVAHJGodJo3yQCE66-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rJNdVAHJGodJo3yQCE66-6" value="进入原地踏步等待中断" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJNdVAHJGodJo3yQCE66-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJNdVAHJGodJo3yQCE66-9" target="rJNdVAHJGodJo3yQCE66-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJNdVAHJGodJo3yQCE66-9" value="将P1的值赋给A" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJNdVAHJGodJo3yQCE66-11" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
