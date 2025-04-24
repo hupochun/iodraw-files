@@ -31,7 +31,7 @@
         <mxCell id="rJNdVAHJGodJo3yQCE66-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJNdVAHJGodJo3yQCE66-9" target="rJNdVAHJGodJo3yQCE66-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rJNdVAHJGodJo3yQCE66-9" value="将P1的值赋给A" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rJNdVAHJGodJo3yQCE66-9" value="A&amp;lt;-P1" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJNdVAHJGodJo3yQCE66-11" value="A自增" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
