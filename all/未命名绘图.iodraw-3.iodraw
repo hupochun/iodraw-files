@@ -16,8 +16,8 @@
         <mxCell id="rJNdVAHJGodJo3yQCE66-2" value="初始化：将A寄存器清零，P1清零" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rJNdVAHJGodJo3yQCE66-4" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="rJNdVAHJGodJo3yQCE66-4" value="打开全局中断使能，开启外中断0和1，设置为下降沿触发，外中断0优先级较高" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
