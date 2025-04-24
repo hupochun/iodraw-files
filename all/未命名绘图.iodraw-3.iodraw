@@ -21,8 +21,8 @@
             <mxPoint x="414" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rJNdVAHJGodJo3yQCE66-4" value="EA&amp;lt;-1&lt;div&gt;EX0&amp;lt;-1&lt;/div&gt;&lt;div&gt;EX1&amp;lt;-1&lt;/div&gt;&lt;div&gt;IT0&amp;lt;-1&lt;/div&gt;&lt;div&gt;IT1&amp;lt;-&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="190" width="136" height="130" as="geometry" />
+        <mxCell id="rJNdVAHJGodJo3yQCE66-4" value="EA&amp;lt;-1&lt;div&gt;EX0&amp;lt;-1&lt;/div&gt;&lt;div&gt;EX1&amp;lt;-1&lt;/div&gt;&lt;div&gt;IT0&amp;lt;-1&lt;/div&gt;&lt;div&gt;IT1&amp;lt;-1&lt;/div&gt;&lt;div&gt;PX0&amp;lt;-1&lt;/div&gt;&lt;div&gt;PX1&amp;lt;-0&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346" y="190" width="136" height="130" as="geometry" />
         </mxCell>
         <mxCell id="rJNdVAHJGodJo3yQCE66-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJNdVAHJGodJo3yQCE66-6" target="rJNdVAHJGodJo3yQCE66-9">
           <mxGeometry relative="1" as="geometry" />
