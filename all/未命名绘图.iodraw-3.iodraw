@@ -28,7 +28,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rJNdVAHJGodJo3yQCE66-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJNdVAHJGodJo3yQCE66-6" target="rJNdVAHJGodJo3yQCE66-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="370" />
+              <mxPoint x="270" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rJNdVAHJGodJo3yQCE66-6" value="等待中断" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
@@ -63,7 +68,7 @@
           <mxGeometry x="354" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJNdVAHJGodJo3yQCE66-19" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="154" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
