@@ -122,6 +122,9 @@
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-32" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1038" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0pxp7W_MFUAbd5CIPY8r-33" target="0pxp7W_MFUAbd5CIPY8r-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-33" value="&lt;div&gt;复位标志位&lt;/div&gt;TI &amp;lt;- 0" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -132,15 +135,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-37" value="A &amp;lt;- 55H&lt;div&gt;将A的数据赋值给SBUF&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0pxp7W_MFUAbd5CIPY8r-40" target="0pxp7W_MFUAbd5CIPY8r-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="1340" as="targetPoint" />
+            <mxPoint x="561" y="1330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="1390" />
-              <mxPoint x="530" y="1340" />
-              <mxPoint x="414" y="1340" />
+              <mxPoint x="531" y="1380" />
+              <mxPoint x="531" y="1330" />
+              <mxPoint x="415" y="1330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -148,16 +151,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-40" value="TI==1？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="346" y="1360" width="136" height="60" as="geometry" />
+          <mxGeometry x="347" y="1350" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-41" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1348" width="40" height="30" as="geometry" />
+          <mxGeometry x="481" y="1338" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-42" value="&lt;div&gt;复位标志位&lt;/div&gt;TI &amp;lt;- 0" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1450" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1418" width="40" height="30" as="geometry" />
+          <mxGeometry x="371" y="1408" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
