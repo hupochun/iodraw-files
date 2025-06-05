@@ -134,7 +134,7 @@
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pxp7W_MFUAbd5CIPY8r-37" target="0pxp7W_MFUAbd5CIPY8r-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0pxp7W_MFUAbd5CIPY8r-37" value="A &amp;lt;- 55H&lt;div&gt;将A的数据赋值给SBUF&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-37" value="A &amp;lt;- AAH&lt;div&gt;将A的数据赋值给SBUF&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0pxp7W_MFUAbd5CIPY8r-40" target="0pxp7W_MFUAbd5CIPY8r-40">
