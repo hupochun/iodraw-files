@@ -16,8 +16,8 @@
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-2" value="初始化&lt;div&gt;SP &amp;lt;- 60H&lt;/div&gt;&lt;div&gt;TMOD &amp;lt;- 20H&lt;/div&gt;&lt;div&gt;TH1 &amp;lt;- 0F4H&lt;/div&gt;&lt;div&gt;TL1 &amp;lt;- 0F4H&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0pxp7W_MFUAbd5CIPY8r-4" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-4" value="开启定时器1，产生波特率" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
