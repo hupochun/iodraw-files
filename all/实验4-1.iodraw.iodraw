@@ -34,11 +34,23 @@
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-8" value="R1=0?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="341" y="410" width="146" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pxp7W_MFUAbd5CIPY8r-10" target="0pxp7W_MFUAbd5CIPY8r-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-10" value="&lt;div&gt;复位标志位&lt;/div&gt;RI &amp;lt;- 0" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="498" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-12" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="468" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pxp7W_MFUAbd5CIPY8r-13" target="0pxp7W_MFUAbd5CIPY8r-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-13" value="A &amp;lt;- SBUF" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-15" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="725" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
