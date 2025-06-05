@@ -186,7 +186,7 @@
         <mxCell id="5PXjFSg34VyHA1jHV9mF-6" value="SBUF &amp;lt;- A" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5PXjFSg34VyHA1jHV9mF-10" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5PXjFSg34VyHA1jHV9mF-10" value="TI==1?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="351" y="1770" width="126" height="50" as="geometry" />
         </mxCell>
       </root>
