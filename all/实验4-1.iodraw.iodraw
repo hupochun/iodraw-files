@@ -180,8 +180,8 @@
         <mxCell id="5PXjFSg34VyHA1jHV9mF-4" value="将R0指向的单元中的内容赋值给A" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5PXjFSg34VyHA1jHV9mF-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1730" width="120" height="60" as="geometry" />
+        <mxCell id="5PXjFSg34VyHA1jHV9mF-6" value="SBUF &amp;lt;- A" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
