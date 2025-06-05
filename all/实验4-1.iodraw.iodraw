@@ -61,15 +61,6 @@
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-17" value="R0++&lt;div&gt;R1--&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0pxp7W_MFUAbd5CIPY8r-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pxp7W_MFUAbd5CIPY8r-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="414" y="650" />
-              <mxPoint x="414" y="650" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-19" value="R1是否等于0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="336" y="860" width="156" height="60" as="geometry" />
         </mxCell>
