@@ -49,8 +49,14 @@
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-13" value="A &amp;lt;- SBUF" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0pxp7W_MFUAbd5CIPY8r-15" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="725" width="120" height="60" as="geometry" />
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pxp7W_MFUAbd5CIPY8r-15" target="0pxp7W_MFUAbd5CIPY8r-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-15" value="将A中数据赋值给R0指向内存单元" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-17" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
