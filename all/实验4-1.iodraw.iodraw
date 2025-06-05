@@ -240,6 +240,9 @@
         <mxCell id="5PXjFSg34VyHA1jHV9mF-24" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="2018" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5PXjFSg34VyHA1jHV9mF-26" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="429" y="2090" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
