@@ -10,8 +10,14 @@
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="30" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pxp7W_MFUAbd5CIPY8r-2" target="0pxp7W_MFUAbd5CIPY8r-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0pxp7W_MFUAbd5CIPY8r-2" value="初始化&lt;div&gt;SP &amp;lt;- 60H&lt;/div&gt;&lt;div&gt;TMOD &amp;lt;- 20H&lt;/div&gt;&lt;div&gt;TH1 &amp;lt;- 0F4H&lt;/div&gt;&lt;div&gt;TL1 &amp;lt;- 0F4H&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0pxp7W_MFUAbd5CIPY8r-4" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
