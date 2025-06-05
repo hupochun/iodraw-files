@@ -215,8 +215,14 @@
         <mxCell id="5PXjFSg34VyHA1jHV9mF-17" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="1808" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5PXjFSg34VyHA1jHV9mF-18" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1990" width="120" height="60" as="geometry" />
+        <mxCell id="5PXjFSg34VyHA1jHV9mF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5PXjFSg34VyHA1jHV9mF-18" target="5PXjFSg34VyHA1jHV9mF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXjFSg34VyHA1jHV9mF-18" value="R0++&lt;div&gt;R1--&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXjFSg34VyHA1jHV9mF-20" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="374" y="2070" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
