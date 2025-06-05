@@ -174,8 +174,14 @@
         <mxCell id="5PXjFSg34VyHA1jHV9mF-1" value="R0 &amp;lt;- 30H&lt;div&gt;R1 &amp;lt;- 08H&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5PXjFSg34VyHA1jHV9mF-4" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5PXjFSg34VyHA1jHV9mF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5PXjFSg34VyHA1jHV9mF-4" target="5PXjFSg34VyHA1jHV9mF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXjFSg34VyHA1jHV9mF-4" value="将R0指向的单元中的内容赋值给A" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXjFSg34VyHA1jHV9mF-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
