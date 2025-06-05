@@ -189,6 +189,10 @@
         <mxCell id="5PXjFSg34VyHA1jHV9mF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5PXjFSg34VyHA1jHV9mF-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="1740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1795" />
+              <mxPoint x="490" y="1740" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5PXjFSg34VyHA1jHV9mF-10" value="TI==1?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
