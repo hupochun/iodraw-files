@@ -119,11 +119,11 @@
         <mxCell id="01avcV6tAlieBTZzazJB-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="1168" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="01avcV6tAlieBTZzazJB-38" value="R0++" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="01avcV6tAlieBTZzazJB-38" value="R0++&lt;div&gt;R7--&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="01avcV6tAlieBTZzazJB-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1238" width="50" height="30" as="geometry" />
+        <mxCell id="01avcV6tAlieBTZzazJB-40" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
