@@ -28,8 +28,14 @@
         <mxCell id="01avcV6tAlieBTZzazJB-10" value="&lt;div&gt;把表格地址赋值给DPTR&lt;/div&gt;DPTR &amp;lt;- #TABLE" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="01avcV6tAlieBTZzazJB-12" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="01avcV6tAlieBTZzazJB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="01avcV6tAlieBTZzazJB-12" target="01avcV6tAlieBTZzazJB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01avcV6tAlieBTZzazJB-12" value="查表&lt;div&gt;A &amp;lt;- (A+DPTR)&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01avcV6tAlieBTZzazJB-14" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
