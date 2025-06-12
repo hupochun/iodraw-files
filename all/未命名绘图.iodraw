@@ -89,7 +89,7 @@
         </mxCell>
         <mxCell id="01avcV6tAlieBTZzazJB-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="01avcV6tAlieBTZzazJB-32">
           <mxGeometry x="0.6" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="-10" as="offset" />
+            <mxPoint x="-22" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="01avcV6tAlieBTZzazJB-26" value="R5=0?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
