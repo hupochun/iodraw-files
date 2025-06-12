@@ -110,11 +110,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="01avcV6tAlieBTZzazJB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="01avcV6tAlieBTZzazJB-34" target="01avcV6tAlieBTZzazJB-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="01avcV6tAlieBTZzazJB-34" value="R4==0?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="357" y="1190" width="114" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="01avcV6tAlieBTZzazJB-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1168" width="50" height="30" as="geometry" />
+        <mxCell id="01avcV6tAlieBTZzazJB-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1168" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="01avcV6tAlieBTZzazJB-38" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
