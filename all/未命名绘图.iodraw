@@ -87,10 +87,15 @@
         <mxCell id="01avcV6tAlieBTZzazJB-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="01avcV6tAlieBTZzazJB-26" target="01avcV6tAlieBTZzazJB-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="01avcV6tAlieBTZzazJB-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="01avcV6tAlieBTZzazJB-32">
+          <mxGeometry x="0.6" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="01avcV6tAlieBTZzazJB-26" value="R5=0?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="354" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="01avcV6tAlieBTZzazJB-31" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="01avcV6tAlieBTZzazJB-31" value="R4--" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
