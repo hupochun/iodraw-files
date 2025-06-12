@@ -46,8 +46,14 @@
         <mxCell id="01avcV6tAlieBTZzazJB-16" value="A &amp;lt;- R1&lt;div&gt;DPTR &amp;lt;- 8001H&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="01avcV6tAlieBTZzazJB-18" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="01avcV6tAlieBTZzazJB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="01avcV6tAlieBTZzazJB-18" target="01avcV6tAlieBTZzazJB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01avcV6tAlieBTZzazJB-18" value="将A的值赋值给DPTR所在的地址单元，并将A右移一位" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01avcV6tAlieBTZzazJB-20" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
