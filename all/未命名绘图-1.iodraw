@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M_QxzltpIIo-Rhi0RWUc-2" value="&#xa;&lt;h1&gt;&lt;/h1&gt;&#xa;&lt;p&gt;Conv&lt;/p&gt;&#xa;&lt;p&gt;Conv&lt;/p&gt;&#xa;&lt;p&gt;Conv&lt;/p&gt;&#xa;&lt;p&gt;Conv&lt;/p&gt;&#xa;&lt;p&gt;Conv&lt;/p&gt;&#xa;&lt;p&gt;Conv&lt;/p&gt;&#xa;&lt;p&gt;Conv&lt;/p&gt;&#xa;&lt;p&gt;Conv&lt;/p&gt;&#xa;&lt;p&gt;Conv&lt;/p&gt;&#xa;&lt;p&gt;Concate&lt;/p&gt;&#xa;&lt;p&gt;Concate&lt;/p&gt;&#xa;&lt;p&gt;Concate&lt;/p&gt;&#xa;&lt;p&gt;Concate&lt;/p&gt;&#xa;&lt;p&gt;Upsample&lt;/p&gt;&#xa;&lt;p&gt;Upsample&lt;/p&gt;&#xa;&lt;p&gt;SPPF&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Backbone&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Neck&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Head&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;20x20&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;40x40&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;80x80&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;0-p1/2&lt;/p&gt;&#xa;&lt;p&gt;7-p5/32&lt;/p&gt;&#xa;&lt;p&gt;5-p4/16&lt;/p&gt;&#xa;&lt;p&gt;3-p3/8&lt;/p&gt;&#xa;&lt;p&gt;1-p2/4&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Input&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;3x640x640&lt;/p&gt;&#xa;&lt;p&gt;CA&lt;/p&gt;&#xa;&lt;p&gt;C3_Res2Block&lt;/p&gt;&#xa;&lt;p&gt;C3_Res2Block&lt;/p&gt;&#xa;&lt;p&gt;C3_Res2Block&lt;/p&gt;&#xa;&lt;p&gt;C3_Res2Block&lt;/p&gt;&#xa;&lt;p&gt;C3_Res2Block&lt;/p&gt;&#xa;&lt;p&gt;C3_Res2Block&lt;/p&gt;&#xa;&lt;p&gt;C3_Res2Block&lt;/p&gt;&#xa;&lt;p&gt;C3_Res2Block&lt;/p&gt;&#xa;&#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="110" height="2090" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
