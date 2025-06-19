@@ -52,7 +52,12 @@
         <mxCell id="ldUMPzCzj5GhLic0nuAh-13" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="505" y="450" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ldUMPzCzj5GhLic0nuAh-14" value="A &amp;lt;- (DPTR)&lt;div&gt;P1 &amp;lt;- A&lt;/div&gt;&lt;div&gt;DPTR &amp;lt;- 0D000H&lt;/div&gt;&lt;div&gt;A &amp;lt;- (30H)&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ldUMPzCzj5GhLic0nuAh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldUMPzCzj5GhLic0nuAh-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldUMPzCzj5GhLic0nuAh-14" value="A &amp;lt;- (DPTR)&lt;div&gt;P1 &amp;lt;- A&lt;/div&gt;&lt;div&gt;DPTR &amp;lt;- 0D000H&lt;/div&gt;&lt;div&gt;A &amp;lt;- (30H)&lt;/div&gt;&lt;div&gt;(DPTR) &amp;lt;- A&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="540" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
