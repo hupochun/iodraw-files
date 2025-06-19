@@ -40,11 +40,14 @@
         <mxCell id="HkaU4TOoJ7N5iBdH5awh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ldUMPzCzj5GhLic0nuAh-10" target="ldUMPzCzj5GhLic0nuAh-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="330" />
-              <mxPoint x="580" y="280" />
+              <mxPoint x="550" y="330" />
+              <mxPoint x="550" y="280" />
               <mxPoint x="420" y="280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HkaU4TOoJ7N5iBdH5awh-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="288" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
