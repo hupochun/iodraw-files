@@ -16,8 +16,14 @@
         <mxCell id="ldUMPzCzj5GhLic0nuAh-2" value="(30H) &amp;lt;- 0FFH" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ldUMPzCzj5GhLic0nuAh-4" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="ldUMPzCzj5GhLic0nuAh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldUMPzCzj5GhLic0nuAh-4" target="ldUMPzCzj5GhLic0nuAh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldUMPzCzj5GhLic0nuAh-4" value="DPTR &amp;lt;- 9000H&lt;div&gt;(DPTR) &amp;lt;- A&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldUMPzCzj5GhLic0nuAh-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
