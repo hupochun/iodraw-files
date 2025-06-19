@@ -62,11 +62,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ldUMPzCzj5GhLic0nuAh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldUMPzCzj5GhLic0nuAh-14" target="ldUMPzCzj5GhLic0nuAh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ldUMPzCzj5GhLic0nuAh-14" value="A &amp;lt;- (DPTR)&lt;div&gt;P1 &amp;lt;- A&lt;/div&gt;&lt;div&gt;DPTR &amp;lt;- 0D000H&lt;/div&gt;&lt;div&gt;A &amp;lt;- (30H)&lt;/div&gt;&lt;div&gt;(DPTR) &amp;lt;- A&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="540" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ldUMPzCzj5GhLic0nuAh-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="364" y="660" width="100" height="60" as="geometry" />
+        <mxCell id="ldUMPzCzj5GhLic0nuAh-17" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="660" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
