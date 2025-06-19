@@ -37,14 +37,12 @@
         <mxCell id="ldUMPzCzj5GhLic0nuAh-17" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="370" y="510" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HkaU4TOoJ7N5iBdH5awh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldUMPzCzj5GhLic0nuAh-10" target="ldUMPzCzj5GhLic0nuAh-10">
+        <mxCell id="HkaU4TOoJ7N5iBdH5awh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldUMPzCzj5GhLic0nuAh-10" target="ldUMPzCzj5GhLic0nuAh-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="280" />
-              <mxPoint x="535" y="280" />
-              <mxPoint x="535" y="380" />
-              <mxPoint x="580" y="380" />
-              <mxPoint x="580" y="300" />
+              <mxPoint x="580" y="280" />
+              <mxPoint x="580" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
