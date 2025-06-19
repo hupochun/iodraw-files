@@ -38,15 +38,16 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="480" />
-              <mxPoint x="550" y="370" />
+              <mxPoint x="550" y="360" />
+              <mxPoint x="420" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ldUMPzCzj5GhLic0nuAh-10" value="R7 == 0 ?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="450" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ldUMPzCzj5GhLic0nuAh-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="428" width="50" height="30" as="geometry" />
+        <mxCell id="ldUMPzCzj5GhLic0nuAh-13" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="450" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
