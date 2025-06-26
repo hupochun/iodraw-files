@@ -159,11 +159,6 @@
         <mxCell id="cJT2shhEjGeZEC89DBEq-38" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="346.36" y="484" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cJT2shhEjGeZEC89DBEq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJT2shhEjGeZEC89DBEq-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cJT2shhEjGeZEC89DBEq-40" value="&lt;div&gt;R7赋值为04H&lt;/div&gt;&lt;div&gt;R0赋值32H&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="223.44000000000005" y="565" width="112.37" height="35" as="geometry" />
         </mxCell>
@@ -222,9 +217,9 @@
         <mxCell id="cJT2shhEjGeZEC89DBEq-56" value="R0是否等于2FH" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="62.01999999999998" y="490" width="97" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cJT2shhEjGeZEC89DBEq-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJT2shhEjGeZEC89DBEq-58">
+        <mxCell id="cJT2shhEjGeZEC89DBEq-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJT2shhEjGeZEC89DBEq-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="111" y="750" as="targetPoint" />
+            <mxPoint x="110.51499999999987" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cJT2shhEjGeZEC89DBEq-58" value="&lt;div&gt;R7赋值为04H&lt;/div&gt;&lt;div&gt;R0赋值32H&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
