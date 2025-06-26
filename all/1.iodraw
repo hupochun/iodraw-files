@@ -73,8 +73,16 @@
         <mxCell id="4RFEnTHoEcwiDjmjURsx-24" value="时间加一" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4RFEnTHoEcwiDjmjURsx-26" target="4RFEnTHoEcwiDjmjURsx-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4RFEnTHoEcwiDjmjURsx-26" value="更新存储" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
