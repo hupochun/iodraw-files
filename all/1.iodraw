@@ -19,6 +19,9 @@
         <mxCell id="4RFEnTHoEcwiDjmjURsx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4RFEnTHoEcwiDjmjURsx-4" target="4RFEnTHoEcwiDjmjURsx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4RFEnTHoEcwiDjmjURsx-4" target="4RFEnTHoEcwiDjmjURsx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4RFEnTHoEcwiDjmjURsx-4" value="中断计数-1==0？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="326" y="210" width="176" height="60" as="geometry" />
         </mxCell>
@@ -37,8 +40,11 @@
         <mxCell id="4RFEnTHoEcwiDjmjURsx-9" value="循环显示时分秒" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4RFEnTHoEcwiDjmjURsx-11" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-11" value="重置显示参数" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-13" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
