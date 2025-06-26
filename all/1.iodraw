@@ -61,8 +61,8 @@
         <mxCell id="4RFEnTHoEcwiDjmjURsx-17" value="是否为23" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="326" y="520" width="176" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4RFEnTHoEcwiDjmjURsx-19" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="705" width="120" height="60" as="geometry" />
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-19" value="清零并进位" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
