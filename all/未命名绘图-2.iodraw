@@ -22,8 +22,14 @@
         <mxCell id="cJT2shhEjGeZEC89DBEq-128" value="初始化定时器产生串口波特率" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cJT2shhEjGeZEC89DBEq-130" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cJT2shhEjGeZEC89DBEq-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJT2shhEjGeZEC89DBEq-130" target="cJT2shhEjGeZEC89DBEq-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJT2shhEjGeZEC89DBEq-130" value="设置中断参数&lt;div&gt;启动定时器和串口&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJT2shhEjGeZEC89DBEq-132" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
