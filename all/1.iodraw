@@ -49,8 +49,14 @@
         <mxCell id="4RFEnTHoEcwiDjmjURsx-13" value="更新时间" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4RFEnTHoEcwiDjmjURsx-15" target="4RFEnTHoEcwiDjmjURsx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4RFEnTHoEcwiDjmjURsx-15" value="当前时间的单位是否为小时" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="341" y="390" width="179" height="100" as="geometry" />
+          <mxGeometry x="324.5" y="390" width="179" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-17" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="374" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
