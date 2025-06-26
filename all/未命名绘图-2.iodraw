@@ -28,8 +28,11 @@
         <mxCell id="cJT2shhEjGeZEC89DBEq-130" value="设置中断参数&lt;div&gt;启动定时器和串口&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cJT2shhEjGeZEC89DBEq-132" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="cJT2shhEjGeZEC89DBEq-132" value="进入主循环等待" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJT2shhEjGeZEC89DBEq-134" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
