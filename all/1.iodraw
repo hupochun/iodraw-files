@@ -28,8 +28,14 @@
         <mxCell id="bukwosW7QsgtZTvBuP5--6" value="从ram中取出显示数据" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bukwosW7QsgtZTvBuP5--8" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="bukwosW7QsgtZTvBuP5--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bukwosW7QsgtZTvBuP5--8" target="bukwosW7QsgtZTvBuP5--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bukwosW7QsgtZTvBuP5--8" value="查字形表输出段选信号" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bukwosW7QsgtZTvBuP5--10" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
