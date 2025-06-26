@@ -52,6 +52,9 @@
         <mxCell id="4RFEnTHoEcwiDjmjURsx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4RFEnTHoEcwiDjmjURsx-15" target="4RFEnTHoEcwiDjmjURsx-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4RFEnTHoEcwiDjmjURsx-15" target="4RFEnTHoEcwiDjmjURsx-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4RFEnTHoEcwiDjmjURsx-15" value="当前时间的单位是否为小时" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="324.5" y="390" width="179" height="100" as="geometry" />
         </mxCell>
@@ -64,8 +67,14 @@
         <mxCell id="4RFEnTHoEcwiDjmjURsx-19" value="清零并进位" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4RFEnTHoEcwiDjmjURsx-24" value="更新时间" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="204.5" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4RFEnTHoEcwiDjmjURsx-24" target="4RFEnTHoEcwiDjmjURsx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-24" value="时间加一" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4RFEnTHoEcwiDjmjURsx-26" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
