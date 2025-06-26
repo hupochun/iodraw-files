@@ -16,8 +16,14 @@
         <mxCell id="cJT2shhEjGeZEC89DBEq-126" value="上电初始化" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cJT2shhEjGeZEC89DBEq-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJT2shhEjGeZEC89DBEq-128" target="cJT2shhEjGeZEC89DBEq-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJT2shhEjGeZEC89DBEq-128" value="初始化定时器产生串口波特率" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJT2shhEjGeZEC89DBEq-130" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
