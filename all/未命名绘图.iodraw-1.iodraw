@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="100" width="548" height="801" as="geometry" />
         </mxCell>
         <mxCell id="f05Lwl2_XbPPLQxIa5ke-2" value="&lt;h4&gt;Input Pass:&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="74" height="17" as="geometry" />
+          <mxGeometry x="170" y="240" width="74" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
