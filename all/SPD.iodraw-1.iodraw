@@ -112,11 +112,11 @@
         <mxCell id="AUBb8s3s5TtSPf1cSKup-12" value="S/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="650" y="590" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BiKhsRW9585qhpmwMPjh-1" value="" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="300" y="338" width="50" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="AUBb8s3s5TtSPf1cSKup-13" value="S/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="605" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiKhsRW9585qhpmwMPjh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="348" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
