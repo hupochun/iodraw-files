@@ -103,10 +103,10 @@
         <mxCell id="7RQPgYJuYn5cCu3by8Mv-39" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="91.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7RQPgYJuYn5cCu3by8Mv-40" value="SPPF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7RQPgYJuYn5cCu3by8Mv-40" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="91.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7RQPgYJuYn5cCu3by8Mv-41" value="SPPF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7RQPgYJuYn5cCu3by8Mv-41" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="91.5" height="40" as="geometry" />
         </mxCell>
       </root>
