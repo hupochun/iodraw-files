@@ -223,7 +223,7 @@
         <mxCell id="8pusDsAtubXRKVXh18gb-92" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="224.75" y="294" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8pusDsAtubXRKVXh18gb-25" value="EMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8pusDsAtubXRKVXh18gb-92">
+        <mxCell id="8pusDsAtubXRKVXh18gb-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;EMA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8pusDsAtubXRKVXh18gb-92">
           <mxGeometry x="4.25" y="10" width="91.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pusDsAtubXRKVXh18gb-85" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="8pusDsAtubXRKVXh18gb-92">
@@ -232,7 +232,7 @@
         <mxCell id="8pusDsAtubXRKVXh18gb-93" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="224.5" y="368" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8pusDsAtubXRKVXh18gb-23" value="SPDC2f" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8pusDsAtubXRKVXh18gb-93">
+        <mxCell id="8pusDsAtubXRKVXh18gb-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;SPDC2f&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8pusDsAtubXRKVXh18gb-93">
           <mxGeometry x="4.25" y="10" width="91.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pusDsAtubXRKVXh18gb-82" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="8pusDsAtubXRKVXh18gb-93">
