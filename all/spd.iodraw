@@ -151,8 +151,8 @@
         <mxCell id="8pusDsAtubXRKVXh18gb-61" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3-p3/8&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8pusDsAtubXRKVXh18gb-62" value="8-p5/32" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="174" y="245" width="60" height="30" as="geometry" />
+        <mxCell id="8pusDsAtubXRKVXh18gb-62" value="8-p5/32" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="169" y="245" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8pusDsAtubXRKVXh18gb-63" value="3x640x640" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-6" y="70" width="80" height="30" as="geometry" />
