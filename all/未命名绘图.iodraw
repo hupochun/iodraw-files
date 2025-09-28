@@ -233,8 +233,8 @@
         <mxCell id="8pusDsAtubXRKVXh18gb-73" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;Input&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="9" y="25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8pusDsAtubXRKVXh18gb-74" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 22px;&quot;&gt;Head&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="20" width="80" height="40" as="geometry" />
+        <mxCell id="8pusDsAtubXRKVXh18gb-74" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;Head&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8pusDsAtubXRKVXh18gb-75" value="SPDC2f" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="62.75" y="545" width="91.5" height="40" as="geometry" />
