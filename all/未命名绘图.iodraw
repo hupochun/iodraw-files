@@ -46,7 +46,7 @@
         <mxCell id="8pusDsAtubXRKVXh18gb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pusDsAtubXRKVXh18gb-14" target="8pusDsAtubXRKVXh18gb-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8pusDsAtubXRKVXh18gb-14" value="EMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="8pusDsAtubXRKVXh18gb-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;EMA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="229" y="140" width="91.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pusDsAtubXRKVXh18gb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8pusDsAtubXRKVXh18gb-16" target="8pusDsAtubXRKVXh18gb-32">
@@ -61,7 +61,7 @@
         <mxCell id="8pusDsAtubXRKVXh18gb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pusDsAtubXRKVXh18gb-19" target="8pusDsAtubXRKVXh18gb-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8pusDsAtubXRKVXh18gb-19" value="SPDC2f" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="8pusDsAtubXRKVXh18gb-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;SPDC2f&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="229" y="200" width="91.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pusDsAtubXRKVXh18gb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pusDsAtubXRKVXh18gb-21" target="8pusDsAtubXRKVXh18gb-30">
