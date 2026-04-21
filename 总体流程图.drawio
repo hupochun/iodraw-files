@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eFMKQKj4EYvAASYX75Xj">
-    <mxGraphModel dx="1483" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1200" background="#FFFFFF" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="1753" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1200" background="#FFFFFF" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="tdiag" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="输出中文翻译错误报告并定位脚本行" vertex="1">
           <mxGeometry height="60" width="300" x="90" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="exec" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=14;" value="调用 executor/cli.py 执行生成脚本" vertex="1">
+        <mxCell id="exec" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="调用 executor/cli.py 执行生成脚本" vertex="1">
           <mxGeometry height="60" width="340" x="470" y="850" as="geometry" />
         </mxCell>
         <mxCell id="pausecheck" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;是否为调试模式且命中断点或单步&lt;/span&gt;" vertex="1">
