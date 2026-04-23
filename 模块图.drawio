@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="eAySeC6ibgVBPGeYXp5I">
+    <mxGraphModel dx="1134" dy="1189" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JT2p1YHTS1g9w131dM1h-27" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JT2p1YHTS1g9w131dM1h-28" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JT2p1YHTS1g9w131dM1h-29" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="758" y="100" />
+              <mxPoint x="599" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT2p1YHTS1g9w131dM1h-30" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="758" y="100" />
+              <mxPoint x="917" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT2p1YHTS1g9w131dM1h-31" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" value="机载设备自动化测试脚本编辑器" vertex="1">
+          <mxGeometry height="78" width="260" x="628" y="-16" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" value="脚本编辑模块&#xa;" vertex="1">
+          <mxGeometry height="102" width="260" x="318" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" value="ICD 配置管理模块" vertex="1">
+          <mxGeometry height="102" width="260" x="628" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" value="翻译分析模块" vertex="1">
+          <mxGeometry height="102" width="260" x="938" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" value="执行与调试模块" vertex="1">
+          <mxGeometry height="102" width="260" x="469" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" value="资源管理模块" vertex="1">
+          <mxGeometry height="102" width="260" x="787" y="285" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
